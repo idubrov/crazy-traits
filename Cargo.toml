@@ -1,0 +1,9 @@
+[package]
+name = "crazy-traits"
+version = "0.1.0"
+authors = ["Ivan Dubrov <dubrov.ivan@gmail.com>"]
+
+[dependencies]
+typed-arena = "1.4.1"
+dynasm = "=0.2.3"
+dynasmrt = "=0.2.3"
